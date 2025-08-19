@@ -1,0 +1,17 @@
+﻿Aluno:        Gustavo Henrique Pereira de brito
+Turma:2º Desenvolvimento de Jogos
+Data:        19/08/2025
+
+
+O que é Desenvolvimento de Jogos Digitais?
+Principais Enginers?
+Meus Jogos Favoritos?
+
+
+O Desenvolvimento de Jogos Digitais é o processo de produção de jogos eletronicos, desde a idealização e design até a programação, testes e lançamento. Abrange programação, design, arte, testes e muito mais, e pode posicionar até grandes equipes em projetos complexos.
+
+
+As principais engines(Motores Gráficos) são conhecidos como Unity, Unreal Engine, Godot, GameMaker, e Construct. Cada uma possui suas próprias características e é adequada para diferentes tipos de projetos e níveis de experiência. 
+
+
+Meus Jogos preferidos são jogos de gêneros como ação e Aventura, como por exemplo, A saga de Assassin's Creed, Sea of Thieves e God of War.
